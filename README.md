@@ -4,6 +4,9 @@
 
 This app is a full stack app, that shows the latest posts.
 
+
+> Check it out: [http://poster-app.vercel.app/](http://poster-app.vercel.app/)
+> 
 ## Features:
 
 - Comments: People can comment on the posts.
@@ -11,7 +14,6 @@ This app is a full stack app, that shows the latest posts.
 - Server side Rendering: The Website get prerendered on the server to improve load speed.
 - Comment Checking: Once a comment is submited it gets revied by the moderator and then aproved.
 
-> Check it out: [http://poster-app.vercel.app/](http://poster-app.vercel.app/)
 
 ## Tech:
 
