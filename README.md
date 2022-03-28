@@ -1,21 +1,33 @@
-# Next.js + Tailwind CSS Example
+# Poster App
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+# ![preview](public/screenshot.png)
 
-## Deploy your own
+This app is a full stack app, that shows the latest posts.
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example) or preview live with [StackBlitz](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
+## Features:
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
+- Commments: People can comment on the posts.
+- Incremental Static Regeneration: Refreshes the website every 60 seconds so it stays up to date.
+- Server side Rendering: The Website get prerendered on the server to improve load speed.
+- Comment Checking: Once a comment is submited it gets revied by the moderator and then aproved.
 
-## How to use
+> Check it out: [http://poster-app.vercel.app/](http://poster-app.vercel.app/)
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
+## Tech:
 
-```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
-# or
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
-```
+- [React] - HTML enhanced for web apps!
+- [Next] - React framework for production level apps
+- [Vs Code] - A multi language code editor.
+- [Tailwind Css] - A very usefull CSS Framework.
 
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+## License
+
+MIT
+
+**Free Software, Hell Yeah!**
+
+[react]: https://reactjs.org/
+[font awesome]: https://fontawesome.com/
+[vs code]: https://code.visualstudio.com/
+[next]: https://nextjs.org/
+[tailwind]: https://tailwindcss.com/
