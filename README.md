@@ -30,4 +30,4 @@ MIT
 [font awesome]: https://fontawesome.com/
 [vs code]: https://code.visualstudio.com/
 [next]: https://nextjs.org/
-[tailwind]: https://tailwindcss.com/
+[tailwind css]: https://tailwindcss.com/
