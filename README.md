@@ -6,7 +6,7 @@ This app is a full stack app, that shows the latest posts.
 
 ## Features:
 
-- Commments: People can comment on the posts.
+- Comments: People can comment on the posts.
 - Incremental Static Regeneration: Refreshes the website every 60 seconds so it stays up to date.
 - Server side Rendering: The Website get prerendered on the server to improve load speed.
 - Comment Checking: Once a comment is submited it gets revied by the moderator and then aproved.
